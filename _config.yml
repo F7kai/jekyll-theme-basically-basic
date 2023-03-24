@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: 童鼎的jekyll网站
-email:
-description: 童鼎的期末项目
+title: 金角湾会有枫叶吗或者是波子汽水
+email: fengqinkai@foxmail.com
+description: 一个写字的地方
 baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://timem00n.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: "童鼎"
+  name: "Shinkai Kaede"
   twitter:
   picture:
 twitter_username:
-github_username: TWOD0G
-logo: "assets/images/TWOD0G.png" # path of site logo, e.g. "/assets/images/logo.png"
+github_username: F7KAI
+logo: "https://i.postimg.cc/gjFVDMFB/QQ-20230321212436.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 search: true #, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
